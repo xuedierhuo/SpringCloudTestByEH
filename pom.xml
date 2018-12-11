@@ -11,6 +11,8 @@
     <modules>
         <module>server-zuul</module>
         <module>server-config</module>
+        <module>seerver-config-testserver</module>
+        <module>server_hello_consul</module>
     </modules>
     <packaging>pom</packaging>
 
