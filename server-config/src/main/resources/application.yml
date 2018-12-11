@@ -8,7 +8,7 @@ spring:
       server:
         git:
 #        仓库地址
-          uri: https://github.com/xuedierhuo/SpringCloudTestByEH/configs
+          uri: https://github.com/xuedierhuo/SpringCloudTestByEH
 #          仓库路径
           search-paths: respo
 #          仓库分支
